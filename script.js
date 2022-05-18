@@ -15,13 +15,13 @@ let songs = [
     { songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
     { songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg" },
     { songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/5.jpg" },
-    { songName: "Mahabharat_Title_Song-", filePath: "songs/6.mp3", coverPath: "covers/6.jpg" },
-    { songName: "Mahabharat_song_mahabharat_emotio", filePath: "songs/7.mp3", coverPath: "covers/7.jpg" },
-    { songName: "MAHABHARAT_FLUTE_RINGTONE_DJ_DATTU_", filePath: "songs/8.mp3", coverPath: "covers/8.jpg" },
-    { songName: "Raghupati_Raghav_Raja_Ram_Sachet", filePath: "songs/9.mp3", coverPath: "covers/9.jpg" },
-    { songName: "Shershaah_Lofi_Mashup_Vinick_Sh_", filePath: "songs/10.mp3", coverPath: "covers/10.jpg" },
-    { songName: "Om_Jai_Jagdish_Hare_Aarti_Ft_Divya_(getmp3.pro)", filePath: "songs/11.mp3", coverPath: "covers/11.jpg" },
-    { songName: "Shershaah_Mashup_Jukebox_Best_of_(getmp3.pro)", filePath: "songs/12.mp3", coverPath: "covers/12.jpg" },
+    { songName: "BEAST_MENTALITY", filePath: "songs/6.mp3", coverPath: "covers/6.jpg" },
+    { songName: "BEAST_MODE", filePath: "songs/7.mp3", coverPath: "covers/7.jpg" },
+    { songName: "BECOME_DISCIPLINED", filePath: "songs/8.mp3", coverPath: "covers/8.jpg" },
+    { songName: "BELIEVE_IN_YOURSELF", filePath: "songs/9.mp3", coverPath: "covers/9.jpg" },
+    { songName: "BELIEVE_YOU_CAN_DO_IT", filePath: "songs/10.mp3", coverPath: "covers/10.jpg" },
+    { songName: "BELIEVE_YOU_CAN_MAKE_IT", filePath: "songs/11.mp3", coverPath: "covers/11.jpg" },
+    { songName: "CHANGE_YOUR_LIFE", filePath: "songs/12.mp3", coverPath: "covers/12.jpg" },
 ]
 
 songItems.forEach((element, i) => {
